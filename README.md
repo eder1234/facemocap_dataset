@@ -6,6 +6,16 @@ Welcome to the GitHub repository for the FaceMoCap dataset. This repository prov
 ## Description
 The FaceMoCap dataset provides a novel resource for the analysis and quantification of facial movements. Our dataset includes point cloud sequences that depict a variety of facial gestures from both healthy adults and patients with facial palsy. This dataset has been carefully collected and processed into a readily accessible Python dataframe, offering potential applications in areas such as facial gesture recognition, patient follow-up, and imputation of missing values. 
 
+## Dataset
+
+Below is a simplified markdown table representation of the described dataframe. 
+| SPC original | SPC dental | SPC imputed | Mocap Platform | Date of Acquisition | Age at Acquisition | ID | Protocol name | Protocol ID | Protocol ID clinicaltrials.gov |
+|--------------|------------|-------------|----------------|---------------------|--------------------|----|---------------|-------------|--------------------------------|
+| `data` | `data` | `data` | Sport Health Technology | 2023-11-28 | 31 | 009 | SIMOVI 1 | ID-RCB 2011-A00532-39 | NCT 02002572 |
+| `data` | `data` | `data` | Institute Faire Faces | 2023-06-27 | 28 | 001 | SIMOVI 2 | ID-RCB 2016-A00716-45 | NCT 03115203 |
+| `data` | `data` | `data` | Sport Health Technology | 2021-01-15 | 24 | 032 | SIMOVI 1 | ID-RCB 2011-A00532-39 | NCT 02002572 |
+| `data` | `data` | `data` | Institute Faire Faces | 2022-03-07 | 20 | 022 | SIMOVI 2 | ID-RCB 2016-A00716-45 | NCT 03115203 |
+
 ## Access to the Dataset
 Due to privacy considerations, the FaceMoCap dataset is not publicly available in this repository. If you wish to gain access to the dataset, please send us an email request detailing your planned usage.
 
