@@ -6,15 +6,6 @@ Welcome to the GitHub repository for the FaceMoCap dataset. This repository prov
 ## Description
 The FaceMoCap dataset provides a novel resource for the analysis and quantification of facial movements. Our dataset includes point cloud sequences that depict a variety of facial gestures from both healthy adults and patients with facial palsy. This dataset has been carefully collected and processed into a readily accessible Python dataframe, offering potential applications in areas such as facial gesture recognition, patient follow-up, and imputation of missing values. 
 
-## Included Facial Gestures
-Our dataset covers five specific types of facial movements:
-
-1. Gentle eyelid closure
-2. Forced eyelid closure
-3. Labial protrusion on "o" sound
-4. Labial protrusion on "μou" sound
-5. A wide smile
-
 ## Access to the Dataset
 Due to privacy considerations, the FaceMoCap dataset is not publicly available in this repository. If you wish to gain access to the dataset, please send us an email request detailing your planned usage.
 
