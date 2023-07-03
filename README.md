@@ -9,12 +9,12 @@ The FaceMoCap dataset provides a novel resource for the analysis and quantificat
 ## Dataset
 
 Below is a simplified markdown table representation of the described dataframe. 
-| SPC original | SPC dental | SPC imputed | Mocap Platform | Date of Acquisition | Age at Acquisition | ID | Protocol name | Protocol ID | Protocol ID clinicaltrials.gov |
+| SPC original | SPC dental | SPC imputed | Mocap platform | Date of acquisition | Age at Acquisition | Public ID | Protocol name | Protocol ID | Protocol ID clinicaltrials.gov |
 |--------------|------------|-------------|----------------|---------------------|--------------------|----|---------------|-------------|--------------------------------|
-| `data` | `data` | `data` | Sport Health Technology | 2023-11-28 | 31 | 009 | SIMOVI 1 | ID-RCB 2011-A00532-39 | NCT 02002572 |
-| `data` | `data` | `data` | Institute Faire Faces | 2023-06-27 | 28 | 001 | SIMOVI 2 | ID-RCB 2016-A00716-45 | NCT 03115203 |
-| `data` | `data` | `data` | Sport Health Technology | 2021-01-15 | 24 | 032 | SIMOVI 1 | ID-RCB 2011-A00532-39 | NCT 02002572 |
-| `data` | `data` | `data` | Institute Faire Faces | 2022-03-07 | 20 | 022 | SIMOVI 2 | ID-RCB 2016-A00716-45 | NCT 03115203 |
+| `data` | `data` | `data` | Sport Health Technology | 2023-11-28 | 31 | 9 | SIMOVI 1 | ID-RCB 2011-A00532-39 | NCT 02002572 |
+| `data` | `data` | `data` | Institute Faire Faces | 2023-06-27 | 28 | 1 | SIMOVI 2 | ID-RCB 2016-A00716-45 | NCT 03115203 |
+| `data` | `data` | `data` | Sport Health Technology | 2021-01-15 | 24 | 32 | SIMOVI 1 | ID-RCB 2011-A00532-39 | NCT 02002572 |
+| `data` | `data` | `data` | Institute Faire Faces | 2022-03-07 | 20 | 22 | SIMOVI 2 | ID-RCB 2016-A00716-45 | NCT 03115203 |
 
 ## Access to the Dataset
 Due to privacy considerations, the FaceMoCap dataset is not publicly available in this repository. If you wish to gain access to the dataset, please send us an email request detailing your planned usage.
